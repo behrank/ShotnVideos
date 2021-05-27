@@ -24,6 +24,7 @@ pod install
 - Every viewcontroller has worker class for crud operations. In this case 2 types of worker classes are implemented which are network and realm workers.
 - App has custom made video recording player which supports play/pause features.
 - Videos saved to app's documents folder
+- App uses Charts framework for data visualization.
 
 ## Contributing
 
