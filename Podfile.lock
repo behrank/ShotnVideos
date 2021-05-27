@@ -1,0 +1,32 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - RacoonKit (1.0.0)
+  - Realm (10.7.6):
+    - Realm/Headers (= 10.7.6)
+  - Realm/Headers (10.7.6)
+  - RealmSwift (10.7.6):
+    - Realm (= 10.7.6)
+
+DEPENDENCIES:
+  - Charts
+  - RacoonKit
+  - RealmSwift (= 10.7.6)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - RacoonKit
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  RacoonKit: 28425b8feb63dfd840d19743c281a335ba7b1dcc
+  Realm: ed860452717c8db8f4bf832b6807f7f2ce708839
+  RealmSwift: e31c4ddbcc42ac879313d656b86f9ca539f6f4f4
+
+PODFILE CHECKSUM: 8a7545c649f45a39d72400d227035509d29969d8
+
+COCOAPODS: 1.10.1
